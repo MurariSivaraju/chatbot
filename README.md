@@ -7,9 +7,10 @@
 ##  Noise pollution:
           Azure Chat Bot
           
-## Project description : I have created a informational bot named "Azure Chat bot" using Html and services like Qna maker,Web app bot.It helps the user to finds                                  
+## Project description : 
+I have created a informational bot named "Azure Chat bot" using Html and services like Qna maker,Web app bot.It helps the user to finds
 information about Ms Azure like ; What is Azure It's history and about services. In this website I make five pages i.e; Home, About,Contact,F.A.Q, ChatBot.It's look
-likes a professional bot.I am trying to solve real world problems like in these days we are searching for good and genuine websites,apps etc. for information here and
+likes a professional bot.I am trying to solve real world problems like in these days we are searching for good and genuine websites,apps etc. for information her and
 there. So I make a bot where I try to give details of Azure. my project helps both learner and explorers like for learners I provided every details i.e; history,
 developer(s),services etc... and for explorers I gave websites links and everything there in the bot to know more to create ,build,deploy etc....
 
