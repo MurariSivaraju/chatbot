@@ -15,7 +15,7 @@ there. So I make a bot where I try to give details of Azure. my project helps bo
 developer(s),services etc... and for explorers I gave websites links and everything there in the bot to know more to create ,build,deploy etc....
 
 
-## Features and funtionalities  :
+## Features and funtionalities :
 - Interactive and responsive UI
 - Has many features and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
