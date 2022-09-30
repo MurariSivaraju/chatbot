@@ -36,10 +36,11 @@ developer(s),services etc... and for explorers I gave websites links and everyth
 
 ## Screenshorts:
 ### 
-![homepage] ](https://user-images.githubusercontent.com/114379140/193243493-874ce728-9e08-422d-b692-537c482e1e29.jpeg)
+![homepage] (https://user-images.githubusercontent.com/114379140/193243493-874ce728-9e08-422d-b692-537c482e1e29.jpeg)
 
 ### 
-![homepage]
+![homepage] (https://user-images.githubusercontent.com/114379140/193243488-014d9d8e-4acb-4141-be19-465bf1c87b64.jpeg)
+
 
 ###  
 ![homepage]
