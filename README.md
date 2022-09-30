@@ -52,10 +52,10 @@ developer(s),services etc... and for explorers I gave websites links and everyth
 ![homepage] (https://user-images.githubusercontent.com/114379140/193243473-0bfbf301-c34f-4b89-9cd1-a85d51dfe821.jpeg)
 
 ### 
-![homepage] ](https://user-images.githubusercontent.com/114379140/193243467-df98c000-4414-4c98-af7d-4b7354171964.jpeg)
+![homepage] (https://user-images.githubusercontent.com/114379140/193243467-df98c000-4414-4c98-af7d-4b7354171964.jpeg)
 
 ### 
-![homepage]
+![homepage] (https://user-images.githubusercontent.com/114379140/193243458-2c3a735b-b0d4-4a09-aa93-049467dc6cec.jpeg)
 
 ### 
 ![homepage]
