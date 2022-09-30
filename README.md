@@ -32,3 +32,31 @@ developer(s),services etc... and for explorers I gave websites links and everyth
 - we provided Gallery in home page to find more and also official website with links with innovative ideas ; go through it.
 - Azure ChatBot useful for both learners and explorers.
 - Main concept that my bot gives; About Azure,how it works,history,full forms and detailed view of azure.
+
+
+## Screenshorts:
+### 
+![homepage]
+
+### 
+![homepage]
+
+###  
+![homepage]
+
+### 
+![homepage]
+
+### 
+![homepage]
+
+### 
+![homepage]
+
+### 
+![homepage]
+
+
+
+
+
