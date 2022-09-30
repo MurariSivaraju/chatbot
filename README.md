@@ -58,7 +58,7 @@ developer(s),services etc... and for explorers I gave websites links and everyth
 ![homepage] (https://user-images.githubusercontent.com/114379140/193243458-2c3a735b-b0d4-4a09-aa93-049467dc6cec.jpeg)
 
 ### 
-![homepage]
+![homepage] (https://user-images.githubusercontent.com/114379140/193243458-2c3a735b-b0d4-4a09-aa93-049467dc6cec.jpeg)
 
 
 ### 
